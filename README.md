@@ -37,8 +37,8 @@ Solidity ^0.8.20 | OpenZeppelin | Aave V3 | Polygon Network
 
 ## 🌐 Connect
 
-- 🐦 Twitter: Coming Soon
-- 💬 Telegram: Coming Soon
+- 🐦 Twitter: @FluxionProtocol
+- 💬 Telegram:(https://t.me/FluxionProtocolCommunity)
 - 📊 Polygonscan: [View Contracts](https://polygonscan.com)
 
 ---
